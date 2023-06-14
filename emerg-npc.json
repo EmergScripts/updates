@@ -5,8 +5,8 @@
   "changelogs": {
     "1.0.1": {
       "dateReleased": "6/14/2023",
-      "title": "Crashing Bug",
-      "changes": "Fixed a bug that caused players to randomly crash when within the scope of an NPC"
+      "title": "Test Version Numbering",
+      "changes": "Yes that is literally the full release..."
     },
     "1.0.0": {
       "dateReleased": "6/13/2023",
